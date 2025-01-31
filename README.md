@@ -5,11 +5,10 @@
 🚀 **I'm David**, a passionate **Full-Stack Developer** from **Vietnam 🇻🇳** with **7+ years of experience** in building high-performance web applications.  
 
 💡 I specialize in:  
-- 🏗 **Backend Development:** Laravel, Filament, Symfony, WordPress, Python, Microservices, RESTful APIs  
-- 🐳 **Frontend Development:** Vue.js, React.js, TailwindCSS, Next.js, Nuxt.js 
-- 🏢 **DevOps & Deployment:** Docker, CI/CD (Jenkins, GitHub Actions, AWS - DigitalOcean DevOps)
-- 🌍 **Multi-Tenant SaaS & Scalable Architectures**
-
+- 🏗 **Laravel - Filament - Symfony - Vuejs** – Scalable admin panels & modern web apps  
+- 🐳 **Docker & DevOps** – Optimized deployments & CI/CD pipelines  
+- 🏢 **Multi-Tenant SaaS** – Scalable and efficient architectures  
+- 🌍 **Cloud & APIs** – AWS, RESTful APIs, Microservice
 ---
 
 ## 🔥 **Tech Stack**
